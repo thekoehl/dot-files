@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jcox/Source/DECOPAC.B2C'
+let g:netrw_dirhist_2='/Users/jcox/Source/phoji-service'
+let g:netrw_dirhist_3='/Users/jcox/Source/DECOPAC.B2C'
+let g:netrw_dirhist_4='/Users/jcox/Source/MARKETINGARM.FRITOLAY18660T/.elasticbeanstalk'
+let g:netrw_dirhist_5='/Users/jcox/Source/phoji-service/.yardoc'
+let g:netrw_dirhist_6='/Users/jcox/Source/CUNINGHAM.fix'
